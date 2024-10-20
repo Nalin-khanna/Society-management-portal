@@ -1,7 +1,7 @@
 # Society Management Portal
 
 
-# Under development 
+## Under development 
 A comprehensive Society Management Portal developed for the Entrepreneurship Development Cell (EDC) of Maharaja Agrasen Institute of Technology (MAIT). This portal helps administrators manage society operations, track member performance, and handle events efficiently.
 
 ## Table of Contents
