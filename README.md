@@ -36,15 +36,18 @@ To set up the project locally, follow these steps:
 
 
 
-Frontend Setup 
-cd frontend
-npm install
-npm run dev 
+2. ** Frontend Setup
+   ```bash
+   cd frontend
+   npm install
+   npm run dev 
 
 
-Backend Setup - 
-cd ../server
-npm install
+3. ** Backend Setup -
+    ```bash
+    cd ../server
+    npm install
+
 
 
 
